@@ -91,7 +91,7 @@ module.exports = {
     port: '8080',
     host:'0.0.0.0',
     disableHostCheck: true,
-    public: '172.20.184.79:8080'
+    public: 'localhost:8080'
   },
   performance: {
     hints: false
