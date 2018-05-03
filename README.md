@@ -1,6 +1,8 @@
 # vue-simple-todos
 
-> A Vue.js project
+> *基于vue-cli-simple、ElementUI的TODOS案例*
+   案例以教程的一个vue项目作为基础进行改造，包括通过使用ElementUI进行页面布局改造，使用了其中的tab、按钮、table、提示等组件。
+另外调整使用了vue-moment，可以不用自己写日期的转换过滤器。
 
 ## Build Setup
 
